@@ -1,1 +1,2 @@
 # Grocify
+Tailwind CSS Practice
